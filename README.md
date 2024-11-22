@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Raed Ghazal
 - <a href="https://www.android.com/" target="_blank">
    <img align="center" src="https://www.android.com/static/images/fav/favicon.ico" width="20" height="20"/>
-  </a> An Experienced Android Engineer
+  </a> A Senior Android Engineer
 -  🏫 Computer Science Degree from **Applied Science University** 🇯🇴
 - 👨‍💻 Interested in **Competetive Programming**
 
@@ -42,19 +42,4 @@
 
 <img width="50" height="50" src="https://user-images.githubusercontent.com/29167110/199557238-1f426397-0c50-4581-a801-9844778bdfef.png"><img width="50" height="50" src="https://user-images.githubusercontent.com/29167110/199558516-1a1156c8-083d-44eb-85e3-cece335ef61c.png"><img width="50" height="50" src="https://user-images.githubusercontent.com/29167110/199562082-ea7aa8ca-ef1c-46d5-852e-2739128a6ca5.png"><img width="50" height="50" src="https://user-images.githubusercontent.com/29167110/199563587-f85e0d43-8f55-481b-ab67-5eaa5906f465.png">
 
-
-## Working on
-
-<table style="width: 100%; text-align: center;">
-  <tr>
-    <td style="vertical-align: middle;">
-      <img src="https://github.com/RaedGhazal/RaedGhazal/assets/29174647/fae3c19f-71fc-4e8d-8440-8089586fd600" width="80" height="80"/>
-    </td>
-    <td style="vertical-align: middle;">
-      <a href="https://github.com/Prayer-Companion/PrayerCompanionAndroid">Prayer Companion</a>
-    </td>
-  </tr>
-</table>
-
-  
 </p>
